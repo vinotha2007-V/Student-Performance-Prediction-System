@@ -1,0 +1,5 @@
+cd src
+python train_model.py
+
+cd ../app
+python app.py
