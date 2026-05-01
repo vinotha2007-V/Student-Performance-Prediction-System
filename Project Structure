@@ -1,0 +1,24 @@
+student-performance-prediction/
+│
+├── data/
+│   └── student_data.csv
+│
+├── notebooks/
+│   └── eda_and_model.ipynb
+│
+├── src/
+│   ├── preprocessing.py
+│   ├── train_model.py
+│   ├── predict.py
+│
+├── app/
+│   ├── app.py
+│   ├── templates/
+│   │   └── index.html
+│
+├── models/
+│   └── model.pkl
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
